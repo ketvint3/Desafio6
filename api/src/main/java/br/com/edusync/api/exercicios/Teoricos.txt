@@ -1,0 +1,37 @@
+1 - O que é uma API?
+ É´uma ferramenta de software que conecta aplicativos e sistemas.
+
+2 - O que é o padrão REST?
+ É um conjunto de definiçoes para projetar arquitetura de software
+
+3 - Dizemos que uma API é REST Full quando?
+
+  Uma API RESTful é aquela que está em conformidade
+  com os critérios estabelecidos pela Transferência de Estado Representacional;
+
+
+4 - Na especificação do protocolo HTTP, usado atualmente por todas as aplicações que executam na web,
+existe uma lista de verbos (Ações) que podemos utilizar na construção de APIs REST, cite os cinco verbos
+HTTP mais comuns e de uma descrição de cada um deles.
+
+ GET: indica que um recurso será recuperado do servidor.
+ POST: indica que um recurso será inserido ou criado no servidor.
+ PUT: indica que um recurso será atualizado no servidor.
+ DELETE: indica que um recurso será removido do servidor.
+
+
+5 - Explique o que são REQUEST e RESPONSE?
+ Requeste é o pedido que o cliente faz, e response e a resposta que o mesmo recebe de volta do
+
+ 6- Dado o Controller abaixo, explique qual é a finalidade do comando apresentado na linha 20?
+
+  Serve para fazer o mapeamento do meu pedido
+
+
+ 8- Um ponto importante sobre os controladores (Controllers), é o seu relacionamento direto com a forma que os usuários interagem com o sistema, sempre através de urls mapeadas. Pensando no mapeamento entre url e controller, assinale abaixo qual método será executado quando o usuário acessar “http://localhost:8080/usuarios”.
+
+  O método form(x)
+
+  9 - MVC é um padrão de arquitetura de software criado na década de 1970, com o principal objetivo a separação interna dos sistemas em pelo menos 3 camadas lógicas interconectadas, onde cada camada é responsável por uma etapa dentro do processo de construção do software. Dito isto, o termo MODEL se refere a:
+
+  A camada que abriga as regras de negócio dos sistemas x
